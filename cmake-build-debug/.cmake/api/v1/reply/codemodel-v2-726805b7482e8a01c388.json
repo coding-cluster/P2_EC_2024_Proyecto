@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1_EC_2024_Proyecto",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1_EC_2024_Proyecto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1_EC_2024_Proyecto-Debug-8e01b9513ce93d21b41a.json",
+					"name" : "P1_EC_2024_Proyecto",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/alexi/Documents/00000 - MAIN DEV/CPP_CODING/Estruct_Comp_2024_Sem2/2do_Parcial/P1_EC_2024_Proyecto/cmake-build-debug",
+		"source" : "C:/Users/alexi/Documents/00000 - MAIN DEV/CPP_CODING/Estruct_Comp_2024_Sem2/2do_Parcial/P1_EC_2024_Proyecto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
